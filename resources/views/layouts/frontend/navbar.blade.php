@@ -21,14 +21,8 @@
                 >
                     <div class="nav-outer">
                         <ul class="nav navbar-nav">
-                            <li class="active dropdown yamm-fw">
-                                <a
-                                    href="{{ url('/') }}"
-                                    data-hover="dropdown"
-                                    class="dropdown-toggle"
-                                    data-toggle="dropdown"
-                                >Home</a
-                                >
+                            <li class="{{ request()->is('/') ? 'active dropdown yamm-fw': '' }}">
+                                <a href="{{ url('/') }}">Home</a>
                             </li>
 
                             <li class="dropdown">
@@ -52,23 +46,11 @@
                             </li>
 
                             <li class=" dropdown yamm-fw">
-                                <a
-                                    href="https://www.localfreshfoods.co.uk/recipes/"
-                                    data-hover="dropdown"
-                                    class="dropdown-toggle"
-                                    data-toggle="dropdown"
-                                >Recipes</a
-                                >
+                                <a href="https://www.localfreshfoods.co.uk/recipes/">Recipes</a>
                             </li>
 
                             <li class=" dropdown yamm-fw">
-                                <a
-                                    href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/"
-                                    data-hover="dropdown"
-                                    class="dropdown-toggle"
-                                    data-toggle="dropdown"
-                                >Web Design</a
-                                >
+                                <a href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/">Web Design</a>
                             </li>
 
                             <li class="dropdown">

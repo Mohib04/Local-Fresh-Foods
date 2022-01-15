@@ -24,20 +24,26 @@
                             <a href="#" class="facebook-sign-in"><i class="fa fa-facebook"></i> Sign In with Facebook</a>
                             <a href="#" class="twitter-sign-in"><i class="fa fa-twitter"></i> Sign In with Twitter</a>
                         </div>
-                        <form class="register-form outer-top-xs" role="form">
+                        <form method="POST" action="{{ isset($guard) ? url($guard.'/login') : route('login') }}">
+                            @csrf
+
                             <div class="form-group">
-                                <label class="info-title" for="exampleInputEmail1">Email Address <span>*</span></label>
-                                <input type="email" class="form-control unicase-form-control text-input" id="exampleInputEmail1" >
+                                <label class="info-title" for="email">Email Address <span>*</span></label>
+                                <input type="email" class="form-control unicase-form-control text-input" id="email" name="email" :value="old('email')" required autofocus >
                             </div>
+
                             <div class="form-group">
-                                <label class="info-title" for="exampleInputPassword1">Password <span>*</span></label>
-                                <input type="password" class="form-control unicase-form-control text-input" id="exampleInputPassword1" >
+                                <label class="info-title" for="password">Password <span>*</span></label>
+                                <input type="password" class="form-control unicase-form-control text-input" id="password" name="password" required autocomplete="current-password" >
                             </div>
+
                             <div class="radio outer-xs">
                                 <label>
-                                    <input type="radio" name="optionsRadios" id="optionsRadios2" value="option2">Remember me!
+                                    <input type="radio" name="remember" id="remember_me" value="option2">Remember me!
                                 </label>
-                                <a href="#" class="forgot-password pull-right">Forgot your Password?</a>
+                                @if (Route::has('password.request'))
+                                    <a href="{{ route('password.request') }}" class="forgot-password pull-right">Forgot your Password?</a>
+                                @endif
                             </div>
                             <button type="submit" class="btn-upper btn btn-primary checkout-page-button">Login</button>
                         </form>
