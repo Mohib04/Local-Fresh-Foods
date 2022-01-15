@@ -42,7 +42,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-3 logo-holder">
                     <!-- ============================================================= LOGO ============================================================= -->
                     <div class="logo">
-                        <a href="home.html">
+                        <a href="{{ url('/') }}">
                             <img style="width: 80px;" src="{{ asset('frontend/assets/images/logo.png') }}" alt="logo" />
                         </a>
                     </div>
