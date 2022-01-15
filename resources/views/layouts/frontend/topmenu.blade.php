@@ -18,7 +18,7 @@
                         <a href="#"><i class="icon fa fa-check"></i>Checkout</a>
                     </li>
                     <li>
-                        <a href="#"><i class="icon fa fa-lock"></i>Login</a>
+                        <a href="{{ url('/login') }}"><i class="icon fa fa-lock"></i>Login</a>
                     </li>
                 </ul>
             </div>
