@@ -23,7 +23,7 @@
                         <ul class="nav navbar-nav">
                             <li class="active dropdown yamm-fw">
                                 <a
-                                    href="home.html"
+                                    href="{{ url('/') }}"
                                     data-hover="dropdown"
                                     class="dropdown-toggle"
                                     data-toggle="dropdown"
