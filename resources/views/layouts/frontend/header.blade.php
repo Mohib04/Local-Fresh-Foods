@@ -11,6 +11,8 @@
     <meta name="robots" content="all" />
     <title>Local Fresh Foods</title>
 
+    {{--    favicon --}}
+    <link rel="icon" type="image/x-icon" href="{{ asset('frontend/assets/images/favicon.png') }}">
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{asset('frontend/assets/css/bootstrap.min.css')}}" />
 
