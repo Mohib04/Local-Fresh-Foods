@@ -27,6 +27,7 @@
 
     <!-- Icons/Glyphs -->
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/font-awesome.css') }}" />
+    <script src="https://kit.fontawesome.com/ec58576b82.js" crossorigin="anonymous"></script>
 
     <!-- Fonts -->
     <link href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet" type="text/css" />

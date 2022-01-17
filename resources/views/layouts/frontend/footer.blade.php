@@ -18,7 +18,11 @@
                       </span>
                                 </div>
                                 <div class="media-body">
-                                    <p>ThemesGround, 789 Main rd, Anytown, CA 12345 USA</p>
+                                    <p>39 Harris Close,
+                                        Kelly Bray,
+                                        Callington,
+                                        Cornwall, PL17 8QT
+                                        England, UK</p>
                                 </div>
                             </li>
                             <li class="media">
@@ -29,8 +33,7 @@
                                 </div>
                                 <div class="media-body">
                                     <p>
-                                        +(888) 123-4567<br />
-                                        +(888) 456-7890
+                                        01579 383571
                                     </p>
                                 </div>
                             </li>
@@ -41,7 +44,7 @@
                       </span>
                                 </div>
                                 <div class="media-body">
-                                    <span><a href="#">flipmart@themesground.com</a></span>
+                                    <span><a href="#">admin@localfreshfoods.co.uk</a></span>
                                 </div>
                             </li>
                         </ul>
@@ -52,20 +55,40 @@
 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="module-heading">
-                        <h4 class="module-title">Customer Service</h4>
+                        <h4 class="module-title">QUICK LINKS</h4>
                     </div>
                     <!-- /.module-heading -->
 
                     <div class="module-body">
                         <ul class="list-unstyled">
                             <li class="first">
-                                <a href="#" title="Contact us">My Account</a>
+                                <a href="https://www.localfreshfoods.co.uk/private-policy/" title="Contact us">Private Policy</a>
                             </li>
-                            <li><a href="#" title="About us">Order History</a></li>
-                            <li><a href="#" title="faq">FAQ</a></li>
-                            <li><a href="#" title="Popular Searches">Specials</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/returns-refunds/" title="About us">Returns & Refunds</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/term-conditions/" title="faq">Term & Conditions</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/faqs/" title="Popular Searches">FAQs</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.module-body -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="module-heading">
+                        <h4 class="module-title">COMPANY</h4>
+                    </div>
+                    <!-- /.module-heading -->
+
+                    <div class="module-body">
+                        <ul class="list-unstyled">
+                            <li class="first">
+                                <a title="Your Account" href="https://www.localfreshfoods.co.uk/about-us/">About us</a>
+                            </li>
+                            <li><a title="Information" href="https://www.localfreshfoods.co.uk/contact/">Contact</a></li>
+                            <li><a title="Addresses" href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/">Web Development and Ecommerce</a></li>
+                            <li><a title="Addresses" href="https://www.localfreshfoods.co.uk/digital-marketing/">Digital Marketing</a></li>
                             <li class="last">
-                                <a href="#" title="Where is my order?">Help Center</a>
+                                <a title="Orders History" href="https://www.localfreshfoods.co.uk/freelance-job/">Freelance Job</a>
                             </li>
                         </ul>
                     </div>
@@ -75,52 +98,77 @@
 
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="module-heading">
-                        <h4 class="module-title">Corporation</h4>
+                        <h4 class="module-title">BUSSINESS</h4>
                     </div>
                     <!-- /.module-heading -->
 
                     <div class="module-body">
                         <ul class="list-unstyled">
                             <li class="first">
-                                <a title="Your Account" href="#">About us</a>
+                                <a href="https://www.localfreshfoods.co.uk/store-list-2/" title="About us">Store List</a>
                             </li>
-                            <li><a title="Information" href="#">Customer Service</a></li>
-                            <li><a title="Addresses" href="#">Company</a></li>
-                            <li><a title="Addresses" href="#">Investor Relations</a></li>
-                            <li class="last">
-                                <a title="Orders History" href="#">Advanced Search</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- /.module-body -->
-                </div>
-                <!-- /.col -->
-
-                <div class="col-xs-12 col-sm-6 col-md-3">
-                    <div class="module-heading">
-                        <h4 class="module-title">Why Choose Us</h4>
-                    </div>
-                    <!-- /.module-heading -->
-
-                    <div class="module-body">
-                        <ul class="list-unstyled">
-                            <li class="first">
-                                <a href="#" title="About us">Shopping Guide</a>
-                            </li>
-                            <li><a href="#" title="Blog">Blog</a></li>
-                            <li><a href="#" title="Company">Company</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/shop/" title="Blog">Shop</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/directory/" title="Company">Directory</a></li>
                             <li>
-                                <a href="#" title="Investor Relations"
-                                >Investor Relations</a
+                                <a href="https://www.localfreshfoods.co.uk/apply-to-sell/" title="Investor Relations"
+                                >Apply to sell</a
                                 >
                             </li>
                             <li class="last">
-                                <a href="contact-us.html" title="Suppliers">Contact Us</a>
+                                <a href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/" title="Suppliers">Vendor Registration</a>
                             </li>
+                            <li><a href="https://www.localfreshfoods.co.uk/my-account/" title="Blog">My account</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/blog/" title="Company">Our Press</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/cart/" title="Blog">Checkout</a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/sellers-demo-dashboard/" title="Company">Sellers Demo Dashboard</a></li>
                         </ul>
                     </div>
                     <!-- /.module-body -->
                 </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="module-heading">
+                        <h4 class="module-title">STORE ANDROID APP</h4>
+                    </div>
+                    <!-- /.module-heading -->
+
+                    <div class="module-body">
+                        <a href="https://play.google.com/store/apps/details?id=com.wcfmapp">
+                            <img width="35%" src="{{ asset('frontend/assets/images/google-play-android-app-300x300.webp') }}">
+                        </a>
+
+                    </div>
+                    <!-- /.module-body -->
+                </div>
+                <!-- /.col -->
+
+                <div class="col-xs-12 col-sm-6 col-md-3">
+                    <div class="module-heading">
+                        <h4 class="module-title">Social Media</h4>
+                    </div>
+                    <!-- /.module-heading -->
+                    <style>
+                        .socila-menu ul li{
+                            float: left;
+                        }
+                        .socila-menu ul li a i{
+                            font-size: 20px;
+                            padding: 8px;
+                        }
+                    </style>
+                    <div class="socila-menu">
+                        <ul class="custom_social">
+                            <li><a href="https://www.facebook.com/Localfreshfoods.co.uk" title="Contact us"><i class="fab fa-facebook-f"></i></a></li>
+                            <li><a href="https://twitter.com/Rajendr57021296" title="Contact us"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="https://localfreshfoods.business.site/" title="Contact us"><i class="fab fa-google-plus"></i></a></li>
+                            <li><a href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/#" title="Contact us"><i class="fab fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com/rajpatel220157" title="Contact us"><i class="fab fa-instagram-square"></i></a></li>
+                        </ul>
+                    </div>
+                    <!-- /.module-body -->
+                </div>
+                <!-- /.col -->
             </div>
         </div>
     </div>

@@ -14,51 +14,51 @@
                         <nav class="yamm megamenu-horizontal">
                             <ul class="nav">
                                 <li class="dropdown menu-item">
-                                    <a href="https://www.localfreshfoods.co.uk/store-list/" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="https://www.localfreshfoods.co.uk/store-list/" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-store" aria-hidden="true"></i
                                         >Store List</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-sellsy" aria-hidden="true"></i
                                         >Best Sellers</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-percent" aria-hidden="true"></i
                                         >Special Offers</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-drumstick-bite" aria-hidden="true"></i
                                         >Fresh Meat & Poultry</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-fish" aria-hidden="true"></i
                                         >Fish & Seafood</a
                                     >
                                 </li><li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-carrot" aria-hidden="true"></i
                                         >Vegetables</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-apple-alt" aria-hidden="true"></i
                                         >Fruits</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-ice-cream" aria-hidden="true"></i
                                         >Milk & Creams</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-egg" aria-hidden="true"></i
                                         >Dairy & Eggs</a
                                     >
                                 </li>
                                 <li class="dropdown menu-item">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-shopping-bag" aria-hidden="true"></i
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon fa fa-seedling" aria-hidden="true"></i
                                         >Seeds & Spices</a
                                     >
                                 </li>
