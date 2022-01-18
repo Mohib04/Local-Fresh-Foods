@@ -4,39 +4,6 @@
 
 <div class="container">
 
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New meeting
-Join a meeting
-Hangouts
-10 of 5,592
-Cookie Policy
-Inbox
-Rajendra Patel
-
-Attachments12:33 AM (15 hours ago)
-
-to me
-Hi Mohib,
-
-Find Cookie Policy
-
-Thank you very much for your hard work
-
-It is greatly appreciated.
-
-Best Wishes
-
-Raj
-
-Attachments area
-
-
-
-
 <section>
     <div class="en section_container active">
         <div id="md_en" class="agreement_md" data-target="out_en">
@@ -906,8 +873,6 @@ Attachments area
 </section>
 <div>This cookie policy was created using&nbsp;<a href="https://termly.io/en/products/cookie-consent-manager/?ftseo">Termly&rsquo;s Cookie Consent Manager</a>.</div>
 
-cookie_policy.blade.php
-Displaying cookie_policy.blade.php.
 </div>
 
 @endsection

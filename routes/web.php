@@ -37,3 +37,15 @@ Route::middleware(['auth:sanctum,web', 'verified'])->get('/dashboard', function 
 Route::get('/cookie-policy', function(){
     return view('frontend.cookie_policy');
 });
+//Privacy Policy
+Route::get('/privacy-policy', function(){
+    return view('frontend.privacy_policy');
+});
+//Returns and Refunds
+Route::get('/return-and-refunds', function(){
+    return view('frontend.returns_and_refunds');
+});
+//Terms and Conditions
+Route::get('/terms-and-conditions', function(){
+    return view('frontend.terms_and_conditions');
+});

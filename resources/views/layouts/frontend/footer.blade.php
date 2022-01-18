@@ -64,8 +64,11 @@
                             <li class="first">
                                 <a href="{{ url('/cookie-policy') }}" title="Contact us">Cookie Policy</a>
                             </li>
-                            <li><a href="https://www.localfreshfoods.co.uk/returns-refunds/" title="About us">Returns & Refunds</a></li>
-                            <li><a href="https://www.localfreshfoods.co.uk/term-conditions/" title="faq">Term & Conditions</a></li>
+                            <li class="first">
+                                <a href="{{ url('/privacy-policy') }}" title="Contact us">Privacy Policy</a>
+                            </li>
+                            <li><a href="{{ url('/return-and-refunds') }}" title="About us">Returns & Refunds</a></li>
+                            <li><a href="{{ url('/terms-and-conditions') }}" title="faq">Term & Conditions</a></li>
                             <li><a href="https://www.localfreshfoods.co.uk/faqs/" title="Popular Searches">FAQs</a></li>
                         </ul>
                     </div>
