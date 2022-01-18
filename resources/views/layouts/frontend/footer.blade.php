@@ -156,7 +156,7 @@
                             float: left;
                         }
                         .socila-menu ul li a i{
-                            font-size: 20px;
+                            font-size: 25px;
                             padding: 8px;
                         }
                     </style>
