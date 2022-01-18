@@ -18,20 +18,22 @@ Route::get('/', function () {
     return view('frontend.home.home');
 });
 
+//Auth
 Route::group(['prefix'=> 'admin', 'middleware'=>['admin:admin']], function(){
 	Route::get('/login', [AdminController::class, 'loginForm']);
 	Route::post('/login',[AdminController::class, 'store'])->name('admin.login');
 });
-
-
-
 
 Route::middleware(['auth:sanctum,admin', 'verified'])->get('/admin/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
 
 
-
 Route::middleware(['auth:sanctum,web', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
+
+//Cookie Policy
+Route::get('/cookie-policy', function(){
+    return view('frontend.cookie_policy');
+});

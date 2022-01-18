@@ -62,7 +62,7 @@
                     <div class="module-body">
                         <ul class="list-unstyled">
                             <li class="first">
-                                <a href="https://www.localfreshfoods.co.uk/private-policy/" title="Contact us">Private Policy</a>
+                                <a href="{{ url('/cookie-policy') }}" title="Contact us">Cookie Policy</a>
                             </li>
                             <li><a href="https://www.localfreshfoods.co.uk/returns-refunds/" title="About us">Returns & Refunds</a></li>
                             <li><a href="https://www.localfreshfoods.co.uk/term-conditions/" title="faq">Term & Conditions</a></li>
