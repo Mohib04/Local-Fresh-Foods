@@ -49,3 +49,7 @@ Route::get('/return-and-refunds', function(){
 Route::get('/terms-and-conditions', function(){
     return view('frontend.terms_and_conditions');
 });
+//Store
+Route::get('/store', function(){
+    return view('frontend.store.index');
+});

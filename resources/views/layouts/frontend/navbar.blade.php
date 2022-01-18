@@ -50,6 +50,9 @@
                             </li>
 
                             <li class=" dropdown yamm-fw">
+                                <a href="{{ url('/store') }}">Store</a>
+                            </li>
+                            <li class=" dropdown yamm-fw">
                                 <a href="https://www.localfreshfoods.co.uk/web-development-digital-marketing/">Web Design</a>
                             </li>
 
