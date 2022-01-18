@@ -3293,7 +3293,7 @@ age-container #owl-main .owl-next {
   color: #666666;
 }
 .footer .footer-bottom {
-  background:#fff;
+  background:#fff !important;
   padding-top: 30px;
   padding-bottom:30px
 }
