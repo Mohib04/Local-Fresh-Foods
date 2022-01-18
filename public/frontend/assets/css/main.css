@@ -3293,7 +3293,7 @@ age-container #owl-main .owl-next {
   color: #666666;
 }
 .footer .footer-bottom {
-  background:#fff !important;
+  background:#fff;
   padding-top: 30px;
   padding-bottom:30px
 }
@@ -3309,7 +3309,7 @@ age-container #owl-main .owl-next {
   font-size: 16px;
   text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
-  color: #ffffff;
+  color: #141414;
 }
 .footer .footer-bottom .module-body ul li {
 
