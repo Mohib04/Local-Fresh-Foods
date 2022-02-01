@@ -16,6 +16,9 @@
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{asset('frontend/assets/css/bootstrap.min.css')}}" />
 
+    {{-- Tailwind Css --}}
+    <script src="https://cdn.tailwindcss.com"></script>
+
     <!-- Customizable CSS -->
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/main.css') }}" />
     <link rel="stylesheet" href="{{ asset('frontend/assets/css/blue.css') }}" />

@@ -3,7 +3,11 @@
 @section('bodySection')
 
         <div class="container">
-            <h2>BULSTONE SPRINGS ORGANIC FARM</h2>
+            <h1>I am Build with TailWind CSS</h1>
+        </div>
+
+        <div class="container">
+            <h2 >BULSTONE SPRINGS ORGANIC FARM</h2>
 
 
         <div id="content" class="site-content">

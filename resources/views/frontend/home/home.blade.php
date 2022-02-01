@@ -3,6 +3,16 @@
 @section('bodySection')
     <div class="body-content outer-top-xs" id="top-banner-and-menu">
         <div class="container">
+            <!-- ============================================== PopUP ============================================== -->
+            <div style="width:100%; text-align:center; padding-bottom:2%" class="card">
+                <div class="card-body">
+                <h2 style="font-size:50px" class="card-title">Welcome to Local Fresh Foods</h2>
+                <p style="font-size:30px" class="card-text">Food, drink and more to your door.</p>
+                <a style="" href="#" class="btn btn-warning btn-lg">START YOUR FIRST SHOP</a>
+                <a href="#" class="btn btn-success btn-lg">ALREADY A CUSTOMER? LOG IN</a>
+                </div>
+            </div>
+            <!-- ============================================== PopUP: END ============================================== -->
             <div class="row">
                 <!-- ============================================== SIDEBAR ============================================== -->
                 <div class="col-xs-12 col-sm-12 col-md-3 sidebar">
